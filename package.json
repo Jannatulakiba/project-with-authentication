@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "npm --prefix \"next js_better_auth\" run dev"
+  },
+  "dependencies": {
+    "@better-auth/mongo-adapter": "^1.7.6",
+    "@heroui/react": "^3.2.6",
+    "@heroui/styles": "^3.2.6",
+    "better-auth": "^1.7.6",
+    "mongodb": "^7.6.0"
+  }
+}
