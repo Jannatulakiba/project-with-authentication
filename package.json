@@ -7,6 +7,7 @@
     "@heroui/react": "^3.2.6",
     "@heroui/styles": "^3.2.6",
     "better-auth": "^1.7.6",
-    "mongodb": "^7.6.0"
+    "mongodb": "^7.6.0",
+    "resend": "^6.32.0"
   }
 }
